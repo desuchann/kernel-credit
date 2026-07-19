@@ -28,6 +28,14 @@ The RBF SVM achieved the best classification performance, improving default dete
 
 - R
 - Logistic regression
-- Support Vector Machines
+- Support Vector Machines (SVM)
 - Statistical modelling
-- Classification analysis
+
+## 🧠 Skills Demonstrated
+
+- Credit risk modelling
+- Supervised learning
+- Classification modelling
+- Model evaluation
+- Data preprocessing
+- Statistical analysis
